@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+PyMuPDF
+transformers
+apscheduler
+streamlit
