@@ -1,9 +1,11 @@
-openai
-faiss-cpu
-sentence-transformers
-beautifulsoup4
+pandas
 requests
 PyMuPDF
 transformers
 apscheduler
 streamlit
+openai
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+
